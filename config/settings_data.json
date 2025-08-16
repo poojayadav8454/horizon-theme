@@ -64,8 +64,9 @@
     "popover_border_radius": 14,
     "popover_border": "none",
     "currency_code_enabled_product_pages": false,
-    "currency_code_enabled_product_cards": false,
+    "currency_code_enabled_product_cards": true,
     "currency_code_enabled_cart_items": false,
+    "mobile_quick_add": true,
     "product_corner_radius": 0,
     "card_corner_radius": 4,
     "show_variant_image": false,
@@ -75,6 +76,7 @@
     "variant_button_border_width": 1,
     "variant_button_radius": 14,
     "variant_button_width": "equal-width-buttons",
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -122,7 +124,7 @@
           "foreground": "#000000cf",
           "primary": "#000000cf",
           "primary_hover": "#ffffff",
-          "border": "#DFDFDF",
+          "border": "#dfdfdf",
           "shadow": "#000000",
           "primary_button_background": "#000000",
           "primary_button_text": "#ffffff",
